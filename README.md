@@ -11,15 +11,6 @@ Requirements
 * [Git](https://git-scm.com/downloads)
 * [VS Code](https://code.visualstudio.com/download) or Any Text Editor
 
-## Cloning this repo
-```cmd
-> git clone https://github.com/fawwaz37/restAPI-Node.git
-> cd restAPI-Node
-```
-Use `code .` to open file in VS Code
-```cmd
-> code .
-```
 
 ## Editing the file
 Edit the required value in folder `lib` file `settings.js`.
